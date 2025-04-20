@@ -1,0 +1,48 @@
+[submodule "gary_bringup"]
+	path = gary_bringup
+	url = https://github.com/GMasterEmbeddedGroup/gary_bringup
+[submodule "gary_can"]
+	path = gary_can
+	url = https://github.com/GMasterEmbeddedGroup/gary_can
+[submodule "gary_chassis"]
+	path = gary_chassis
+	url = https://github.com/GMasterEmbeddedGroup/gary_chassis
+[submodule "gary_common"]
+	path = gary_common
+	url = https://github.com/GMasterEmbeddedGroup/gary_common
+[submodule "gary_controller"]
+	path = gary_controller
+	url = https://github.com/GMasterEmbeddedGroup/gary_controller
+[submodule "gary_description"]
+	path = gary_description
+	url = https://github.com/GMasterEmbeddedGroup/gary_description
+[submodule "gary_gimbal"]
+	path = gary_gimbal
+	url = https://github.com/GMasterEmbeddedGroup/gary_gimbal
+[submodule "gary_hardware"]
+	path = gary_hardware
+	url = https://github.com/GMasterEmbeddedGroup/gary_hardware
+[submodule "gary_liftup"]
+	path = gary_liftup
+	url = https://github.com/GMasterEmbeddedGroup/gary_liftup
+[submodule "gary_msgs"]
+	path = gary_msgs
+	url = https://github.com/GMasterEmbeddedGroup/gary_msgs
+[submodule "gary_ros2"]
+	path = gary_ros2
+	url = https://github.com/GMasterEmbeddedGroup/gary_ros2
+[submodule "gary_rqt"]
+	path = gary_rqt
+	url = https://github.com/GMasterEmbeddedGroup/gary_rqt
+[submodule "gary_serial"]
+	path = gary_serial
+	url = https://github.com/GMasterEmbeddedGroup/gary_serial
+[submodule "gary_shoot"]
+	path = gary_shoot
+	url = https://github.com/GMasterEmbeddedGroup/gary_shoot
+[submodule "gary_simulation"]
+	path = gary_simulation
+	url = https://github.com/GMasterEmbeddedGroup/gary_simulation
+[submodule "gary_ui"]
+	path = gary_ui
+	url = https://github.com/GMasterEmbeddedGroup/gary_ui
